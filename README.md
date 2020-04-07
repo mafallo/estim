@@ -1,2 +1,2 @@
 # estim
-Apprentissage de TDD avec la mise en oeuvre d'un algo destimation de precision
+Apprentissage de TDD - Implementation d'un algo d'estimation de precision
